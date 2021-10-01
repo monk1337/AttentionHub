@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" src="./Docs/icon.png">
+  <img width="250" src="./docs/icon.png">
 </p>
 <h2 align="center">TorchAttention</h2>
 
