@@ -1,5 +1,5 @@
 <div align="center">
-<img width="120" src="./docs/icon.png">
+<img width="150" src="./docs/icon.png">
 
 A hub for all types of Attention Mechanism in Pytorch with Benchmarks
 
