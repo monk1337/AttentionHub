@@ -3,7 +3,7 @@
 
 A hub for all types of Attention Mechanism in Pytorch with Benchmarks
 
-______________________________________________________________________
+______________________________________________
 
 
 [![GitHub commit](https://img.shields.io/github/last-commit/monk1337/TorchAttention)](https://github.com/monk1337/TorchAttention/commits/master)
