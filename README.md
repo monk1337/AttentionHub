@@ -1,7 +1,7 @@
 <div align="center">
 <img width="110px" src="./docs/icon_2.png">
   
-<h2>TorchAttention</h2>
+<h2>Torch Attention</h2>
 
 
 A hub for all types of Attention Mechanism in Pytorch with Benchmarks
