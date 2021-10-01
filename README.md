@@ -1,9 +1,7 @@
 <div align="center">
-<p align="center">
-  <img width="150" src="./docs/icon.png">
-</p>
+<img width="150" src="./docs/icon.png">
 
-<p align="center">A hub for all types of Attention Mechanism in Pytorch with Benchmarks </p>
+A hub for all types of Attention Mechanism in Pytorch with Benchmarks
 
 
 [![GitHub commit](https://img.shields.io/github/last-commit/monk1337/TorchAttention)](https://github.com/monk1337/TorchAttention/commits/master)
