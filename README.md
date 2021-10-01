@@ -1,9 +1,6 @@
 <p align="center">
-  <img width="250" src="./docs/icon.png">
+  <img width="100" src="./docs/icon.png">
 </p>
-<h2 align="center">TorchAttention</h2>
-
-
 
 <p align="center">A hub for all types of Attention Mechanism in Pytorch with Benchmarks </p>
 
