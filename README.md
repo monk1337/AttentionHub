@@ -1,5 +1,5 @@
 <div align="center">
-<img width="110px" src="./docs/icon.png">
+<img width="110px" src="./docs/icon_2.png">
   
 <h2>TorchAttention</h2>
 
